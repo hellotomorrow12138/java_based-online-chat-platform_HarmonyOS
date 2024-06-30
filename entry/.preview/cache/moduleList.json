@@ -1,0 +1,7 @@
+{
+  "list": [
+    "entry/src/main/ets/entryability/EntryAbility.ts",
+    "entry/src/main/ets/pages/test.ets",
+    "entry/src/main/ets/model/PerferencesUtil.ts"
+  ]
+}

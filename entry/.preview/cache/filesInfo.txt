@@ -1,0 +1,3 @@
+D:/CODE_work/Harmony_work/index_test1/entry/.preview/cache/temporary/entryability/EntryAbility.js;com.example.index_test1/entry/ets/entryability/EntryAbility;esm;entry/src/main/ets/entryability/EntryAbility.ts;entry
+D:/CODE_work/Harmony_work/index_test1/entry/.preview/cache/temporary/model/PerferencesUtil.js;com.example.index_test1/entry/ets/model/PerferencesUtil;esm;entry/src/main/ets/model/PerferencesUtil.ts;entry
+D:/CODE_work/Harmony_work/index_test1/entry/.preview/cache/temporary/pages/test.js;com.example.index_test1/entry/ets/pages/test;esm;entry/src/main/ets/pages/test.ets;entry

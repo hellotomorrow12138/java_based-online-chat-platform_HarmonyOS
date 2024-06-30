@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\wwcc\\.ohos\\config\\auto_debug_index_test1_chat.kalakala.top_150086000301529295.cer",
+          "storePassword": "0000001994338EB036F68648C20ED3988611414BDA032D073E616AE2380B05AD6BFE49D52C499B5E7D",
+          "keyAlias": "debugKey",
+          "keyPassword": "000000191CBC2F2114A93F01BCA447298C892F32C7F46B38042B6A060A87BC40C4AB5455F62723589F",
+          "profile": "C:\\Users\\wwcc\\.ohos\\config\\auto_debug_index_test1_chat.kalakala.top_150086000301529295.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\wwcc\\.ohos\\config\\auto_debug_index_test1_chat.kalakala.top_150086000301529295.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
